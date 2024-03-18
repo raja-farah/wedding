@@ -13,6 +13,13 @@ h1 {
   font-size: 60px;
 }
 
+.quote {
+  font-family: "Waterfall";
+  font-size: 30px;
+  color: #000000;
+  font-weight: 550;
+}
+
 h2 {
   font-size: 40px;
   font-weight: 300;
